@@ -1,0 +1,3 @@
+C:/Users/pacerim/Downloads/LamberBattin/LamberBattin/LamberBattin/cmake-build-debug/CMakeFiles/LamberBattin.dir
+C:/Users/pacerim/Downloads/LamberBattin/LamberBattin/LamberBattin/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pacerim/Downloads/LamberBattin/LamberBattin/LamberBattin/cmake-build-debug/CMakeFiles/rebuild_cache.dir

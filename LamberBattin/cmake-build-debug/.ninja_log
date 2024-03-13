@@ -1,0 +1,8 @@
+# ninja log v5
+1	416	7309020839110983	CMakeFiles/LamberBattin.dir/vector.cpp.obj	b4554d41efb5a0f6
+15	205	7309020836962484	CMakeFiles/LamberBattin.dir/seebatt.cpp.obj	6e171b5206118efd
+5	355	7309021667212159	CMakeFiles/LamberBattin.dir/main.cpp.obj	b37713f943da0787
+356	483	7309021668448883	LamberBattin.exe	33ae5cd959068462
+28	201	7309020836872723	CMakeFiles/LamberBattin.dir/seebattk.cpp.obj	c14f0c02a9f0187b
+21	198	7309020836862761	CMakeFiles/LamberBattin.dir/LAMBERTBATTIN.cpp.obj	33c086d00ab5a2a2
+2	457	7309207457270446	build.ninja	4caa6833272d7d25
