@@ -1,4 +1,11 @@
 version = 1
 
+test_patterns = ["LamberBattin"]
+
+exclude_patterns = [
+  ".idea",
+  "cmake-build-debug"
+]
+
 [[analyzers]]
 name = "cxx"
